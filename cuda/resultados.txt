@@ -1,0 +1,1905 @@
+Tiempo para imagen de 720p con un kernel de 3 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 720x512
+Imagen: 1.10592 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m4.005s
+user	0m2.700s
+sys	0m0.960s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m19.883s
+user	0m14.252s
+sys	0m5.640s
+Tiempo para imagen de 4k con un kernel de 3 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	1m38.091s
+user	1m11.268s
+sys	0m26.872s
+Tiempo para imagen de 720p con un kernel de 5 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 720x512
+Imagen: 1.10592 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m6.115s
+user	0m4.412s
+sys	0m1.704s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m34.034s
+user	0m24.832s
+sys	0m9.220s
+Tiempo para imagen de 4k con un kernel de 5 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	2m47.807s
+user	2m1.108s
+sys	0m46.788s
+Tiempo para imagen de 720p con un kernel de 7 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 720x512
+Imagen: 1.10592 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m9.728s
+user	0m6.980s
+sys	0m2.752s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m54.443s
+user	0m40.088s
+sys	0m14.380s
+Tiempo para imagen de 4k con un kernel de 7 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	4m28.373s
+user	3m15.028s
+sys	1m13.488s
+Tiempo para imagen de 720p con un kernel de 9 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 720x512
+Imagen: 1.10592 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m14.438s
+user	0m10.464s
+sys	0m3.980s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	1m21.135s
+user	0m58.936s
+sys	0m22.236s
+Tiempo para imagen de 4k con un kernel de 9 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	6m40.014s
+user	4m51.140s
+sys	1m49.072s
+Tiempo para imagen de 720p con un kernel de 11 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 720x512
+Imagen: 1.10592 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m20.239s
+user	0m14.752s
+sys	0m5.496s
+Tiempo para imagen de 1080p con un kernel de 11 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	1m53.958s
+user	1m22.316s
+sys	0m31.692s
+Tiempo para imagen de 4k con un kernel de 11 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	9m24.538s
+user	6m50.600s
+sys	2m34.232s
+Tiempo para imagen de 720p con un kernel de 13 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 720x512
+Imagen: 1.10592 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m27.128s
+user	0m19.436s
+sys	0m7.704s
+
+Tiempo para imagen de 1080p con un kernel de 13 y con # 16 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 16 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	2m33.021s
+user	1m50.632s
+sys	0m42.468s
+
+
+
+//////////////////////////////////////////////
+Tiempo para imagen de 720p con un kernel de 3 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.946s
+user	0m2.096s
+sys	0m0.848s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m5.413s
+user	0m4.032s
+sys	0m1.384s
+Tiempo para imagen de 4k con un kernel de 3 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m26.326s
+user	0m19.384s
+sys	0m6.956s
+Tiempo para imagen de 720p con un kernel de 3 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.067s
+user	0m1.508s
+sys	0m0.556s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.814s
+user	0m2.708s
+sys	0m1.104s
+Tiempo para imagen de 4k con un kernel de 3 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m18.504s
+user	0m13.316s
+sys	0m5.196s
+Tiempo para imagen de 720p con un kernel de 3 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.602s
+user	0m1.140s
+sys	0m0.460s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.951s
+user	0m2.132s
+sys	0m0.816s
+Tiempo para imagen de 4k con un kernel de 3 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m14.291s
+user	0m10.416s
+sys	0m3.880s
+Tiempo para imagen de 720p con un kernel de 3 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.529s
+user	0m1.096s
+sys	0m0.432s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.803s
+user	0m2.016s
+sys	0m0.788s
+Tiempo para imagen de 4k con un kernel de 3 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m13.513s
+user	0m9.820s
+sys	0m3.696s
+Tiempo para imagen de 720p con un kernel de 3 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.498s
+user	0m1.032s
+sys	0m0.464s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.695s
+user	0m1.852s
+sys	0m0.844s
+Tiempo para imagen de 4k con un kernel de 3 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 3
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m13.077s
+user	0m9.660s
+sys	0m3.420s
+
+//////////////////////////////////////////////////
+
+Tiempo para imagen de 720p con un kernel de 5 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.256s
+user	0m2.324s
+sys	0m0.932s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m5.899s
+user	0m4.312s
+sys	0m1.588s
+Tiempo para imagen de 4k con un kernel de 5 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m29.501s
+user	0m21.616s
+sys	0m7.900s
+Tiempo para imagen de 720p con un kernel de 5 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.331s
+user	0m1.656s
+sys	0m0.672s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m4.320s
+user	0m2.980s
+sys	0m1.340s
+Tiempo para imagen de 4k con un kernel de 5 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m20.973s
+user	0m15.152s
+sys	0m5.828s
+Tiempo para imagen de 720p con un kernel de 5 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.751s
+user	0m1.228s
+sys	0m0.520s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.233s
+user	0m2.284s
+sys	0m0.948s
+Tiempo para imagen de 4k con un kernel de 5 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m15.660s
+user	0m11.536s
+sys	0m4.132s
+Tiempo para imagen de 720p con un kernel de 5 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.663s
+user	0m1.144s
+sys	0m0.516s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.078s
+user	0m2.276s
+sys	0m0.800s
+Tiempo para imagen de 4k con un kernel de 5 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m14.873s
+user	0m10.964s
+sys	0m3.916s
+Tiempo para imagen de 720p con un kernel de 5 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.648s
+user	0m1.188s
+sys	0m0.460s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.027s
+user	0m2.176s
+sys	0m0.852s
+Tiempo para imagen de 4k con un kernel de 5 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 5
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m14.530s
+user	0m10.260s
+sys	0m4.276s
+/////////////////////////////////////////////////
+Tiempo para imagen de 720p con un kernel de 7 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m4.624s
+user	0m3.232s
+sys	0m1.392s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m8.548s
+user	0m6.132s
+sys	0m2.420s
+Tiempo para imagen de 4k con un kernel de 7 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m42.274s
+user	0m30.320s
+sys	0m11.976s
+Tiempo para imagen de 720p con un kernel de 7 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.805s
+user	0m1.948s
+sys	0m0.856s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m5.226s
+user	0m3.644s
+sys	0m1.580s
+Tiempo para imagen de 4k con un kernel de 7 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m25.421s
+user	0m18.360s
+sys	0m7.072s
+Tiempo para imagen de 720p con un kernel de 7 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.931s
+user	0m1.368s
+sys	0m0.560s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.536s
+user	0m2.612s
+sys	0m0.924s
+Tiempo para imagen de 4k con un kernel de 7 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m17.189s
+user	0m12.700s
+sys	0m4.496s
+Tiempo para imagen de 720p con un kernel de 7 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.804s
+user	0m1.284s
+sys	0m0.520s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.354s
+user	0m2.416s
+sys	0m0.936s
+Tiempo para imagen de 4k con un kernel de 7 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m16.189s
+user	0m11.796s
+sys	0m4.400s
+Tiempo para imagen de 720p con un kernel de 7 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.787s
+user	0m1.268s
+sys	0m0.516s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.270s
+user	0m2.400s
+sys	0m0.868s
+Tiempo para imagen de 4k con un kernel de 7 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 7
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m16.000s
+user	0m11.528s
+sys	0m4.480s
+
+
+
+/////////////////////////////////////////////////
+
+Tiempo para imagen de 720p con un kernel de 9 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m6.328s
+user	0m4.568s
+sys	0m1.760s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m11.863s
+user	0m8.524s
+sys	0m3.344s
+Tiempo para imagen de 4k con un kernel de 9 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m58.142s
+user	0m42.720s
+sys	0m15.448s
+Tiempo para imagen de 720p con un kernel de 9 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.481s
+user	0m2.436s
+sys	0m1.044s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m6.237s
+user	0m4.588s
+sys	0m1.652s
+Tiempo para imagen de 4k con un kernel de 9 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m31.794s
+user	0m22.976s
+sys	0m8.832s
+Tiempo para imagen de 720p con un kernel de 9 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.159s
+user	0m1.556s
+sys	0m0.600s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m4.017s
+user	0m2.816s
+sys	0m1.200s
+Tiempo para imagen de 4k con un kernel de 9 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m19.560s
+user	0m14.328s
+sys	0m5.240s
+Tiempo para imagen de 720p con un kernel de 9 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.901s
+user	0m1.416s
+sys	0m0.484s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.535s
+user	0m2.620s
+sys	0m0.916s
+Tiempo para imagen de 4k con un kernel de 9 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m17.034s
+user	0m12.340s
+sys	0m4.700s
+Tiempo para imagen de 720p con un kernel de 9 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.927s
+user	0m1.364s
+sys	0m0.560s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.542s
+user	0m2.564s
+sys	0m0.976s
+Tiempo para imagen de 4k con un kernel de 9 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 9
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m17.214s
+user	0m12.632s
+sys	0m4.588s
+
+///////////////////////////////////////////
+Tiempo para imagen de 720p con un kernel de 11 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m8.586s
+user	0m6.172s
+sys	0m2.416s
+
+
+
+Tiempo para imagen de 1080p con un kernel de 11 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m16.124s
+user	0m11.724s
+sys	0m4.408s
+
+
+
+Tiempo para imagen de 4k con un kernel de 11 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	1m19.318s
+user	0m57.900s
+sys	0m21.460s
+
+
+
+
+
+
+
+
+Tiempo para imagen de 720p con un kernel de 11 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m4.444s
+user	0m3.188s
+sys	0m1.256s
+
+
+
+
+
+
+
+
+
+Tiempo para imagen de 1080p con un kernel de 11 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m8.216s
+user	0m5.896s
+sys	0m2.320s
+
+
+
+
+
+
+
+
+Tiempo para imagen de 4k con un kernel de 11 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m41.033s
+user	0m27.824s
+sys	0m13.228s
+
+
+
+
+
+
+Tiempo para imagen de 720p con un kernel de 11 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.563s
+user	0m1.856s
+sys	0m0.704s
+
+
+
+
+
+
+Tiempo para imagen de 1080p con un kernel de 11 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m4.788s
+user	0m3.480s
+sys	0m1.308s
+
+
+
+
+
+
+Tiempo para imagen de 4k con un kernel de 11 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m23.307s
+user	0m16.888s
+sys	0m6.428s
+
+
+
+
+Tiempo para imagen de 720p con un kernel de 11 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.079s
+user	0m1.508s
+sys	0m0.568s
+
+
+
+
+
+Tiempo para imagen de 1080p con un kernel de 11 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.881s
+user	0m2.716s
+sys	0m1.164s
+
+
+
+
+
+
+Tiempo para imagen de 4k con un kernel de 11 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m18.728s
+user	0m13.752s
+sys	0m4.984s
+
+
+
+Tiempo para imagen de 720p con un kernel de 11 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m1.986s
+user	0m1.380s
+sys	0m0.604s
+
+
+
+
+Tiempo para imagen de 1080p con un kernel de 11 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.643s
+user	0m2.628s
+sys	0m1.016s
+
+
+
+
+
+
+
+
+Tiempo para imagen de 4k con un kernel de 11 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 11
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m17.838s
+user	0m12.928s
+sys	0m4.916s
+
+
+
+
+/////////////////////////////////
+Tiempo para imagen de 720p con un kernel de 13 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m11.141s
+user	0m8.244s
+sys	0m2.900s
+
+
+
+
+
+Tiempo para imagen de 1080p con un kernel de 13 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m21.153s
+user	0m15.216s
+sys	0m5.944s
+
+
+
+
+
+
+Tiempo para imagen de 4k con un kernel de 13 y con # 128 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 128 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	1m43.913s
+user	1m15.596s
+sys	0m28.368s
+
+
+
+
+
+
+Tiempo para imagen de 720p con un kernel de 13 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m5.801s
+user	0m4.208s
+sys	0m1.592s
+
+
+
+
+
+
+Tiempo para imagen de 1080p con un kernel de 13 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m10.849s
+user	0m7.956s
+sys	0m2.896s
+
+
+
+
+
+Tiempo para imagen de 4k con un kernel de 13 y con # 256 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 1 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m53.937s
+user	0m39.020s
+sys	0m14.944s
+
+
+
+
+
+Tiempo para imagen de 720p con un kernel de 13 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.139s
+user	0m2.248s
+sys	0m0.892s
+
+
+
+
+
+
+
+Tiempo para imagen de 1080p con un kernel de 13 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m5.853s
+user	0m4.236s
+sys	0m1.616s
+
+
+
+Tiempo para imagen de 4k con un kernel de 13 y con # 512 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 2 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m28.589s
+user	0m20.568s
+sys	0m8.036s
+
+
+
+
+
+
+
+
+
+Tiempo para imagen de 720p con un kernel de 13 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.388s
+user	0m1.760s
+sys	0m0.628s
+
+
+
+
+
+
+
+Tiempo para imagen de 1080p con un kernel de 13 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m4.456s
+user	0m3.268s
+sys	0m1.188s
+
+
+
+
+
+
+
+Tiempo para imagen de 4k con un kernel de 13 y con # 768 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 256 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m21.638s
+user	0m15.952s
+sys	0m5.696s
+
+
+
+
+
+
+
+
+
+
+
+
+Tiempo para imagen de 720p con un kernel de 13 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1527x720
+Imagen: 3.29832 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m2.129s
+user	0m1.544s
+sys	0m0.584s
+
+
+
+
+
+
+
+
+Tiempo para imagen de 1080p con un kernel de 13 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 1920x1080
+Imagen: 6.2208 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m3.923s
+user	0m2.848s
+sys	0m1.076s
+
+
+
+
+
+
+Tiempo para imagen de 4k con un kernel de 13 y con # 1024 hilos 
+0
+cores disponibles por multiprocesador: 192
+tamaño kernel: 13
+Imagen: 3910x2607
+Imagen: 30.5801 Mb.
+Memoria de imagen image reservada en device
+Memoria de imagen ans reservada en device
+imagen original copiada en device
+Ejecutando 3 bloques de 341 hilos.
+Respuesta copiada al host
+Memoria liberada en device
+
+real	0m19.087s
+user	0m13.540s
+sys	0m5.556s
+

@@ -1,0 +1,8 @@
+Probado en Ubuntu, con librerias de OpenCV instaladas.
+
+Para compilar usar los siguientes comandos en la terminal:
+cmake
+make
+
+Para ejecutar usar el siguiente comando
+./borroso <ruta imagen> <tamao kernel>
