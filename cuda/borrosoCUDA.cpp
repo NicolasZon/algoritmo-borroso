@@ -29,7 +29,7 @@ int main(int n, char* argv[])
 
 	//	Verificacion de los parametros para la correcta ejecucion del programa
 	if (n != 4) {
-		cout << "blur <ruta img> <Tamano del kernel> <thread>" << endl;
+		cout << "borrosoCUDA <ruta img> <Tamano del kernel> <thread>" << endl;
 		return 0;
 	}
 	
