@@ -1,6 +1,5 @@
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
-
 #include <iostream>
 #include <cmath>
 #include <sstream>
@@ -28,23 +27,24 @@ int main(int n, char* argv[])
 
 	cout << CV_LOAD_IMAGE_GRAYSCALE << endl;
 
-	//	Prueva que los parametros esten completos
+	//	Verificacion de los parametros para la correcta ejecucion del programa
 	if (n != 4) {
-		cout << "blur <ruta img> <kernel> <thread>" << endl;
+		cout << "borrosoCUDA <ruta img> <Tamano del kernel> <thread>" << endl;
 		return 0;
 	}
-	//Determina las caracteristicas de la targeta
-	cudaSetDevice(0);
-	cudaDeviceProp deviceProp;
-	cudaGetDeviceProperties(&deviceProp, 0);
-	int hilos_max = _ConvertSMVer2Cores(deviceProp.major, deviceProp.minor);
-	cout << "cores disponibles por multiprocesador: " << hilos_max << endl;
-
-	//Calculando bloques e hilos por bloque
+	
 	stringstream ss;
 	ss << argv[3];
 	ss >> hilos_totales;
 	
+	//Se especifican las caracteristicas de la tarjeta
+	cudaSetDevice(0);
+	cudaDeviceProp deviceProp;
+	cudaGetDeviceProperties(&deviceProp, 0);
+	int hilos_max = _ConvertSMVer2Cores(deviceProp.major, deviceProp.minor);
+	cout << "Los cores actualmente disponibles por multiprocesador: " << hilos_max << endl;
+
+	//Se hace el calculo de bloques e hilos por bloque
 	bloques = (hilos_totales / (hilos_max * 2)) + 1;
 	hilos = hilos_totales / bloques;
 
@@ -52,23 +52,23 @@ int main(int n, char* argv[])
 	ss.clear();
 	ss << argv[2];
 	ss >> tam_kernel;
-	if (tam_kernel < 1) {
-		cerr << " tamano kernel incorrecto, debe ser mayor a 1\n";
+	if (tam_kernel < 1 || (int)tam_kernel %2 == 0) {
+		cerr << " tamano kernel incorrecto, debe ser mayor a 1 e impar\n";
 		return -1;
 	}
 	cout << "tamaño kernel: " << (int)floor(tam_kernel) << endl;
 
-	//	Carga la imagen en host
+	//	Se carga la imagen en host
 	image = imread(argv[1], CV_LOAD_IMAGE_COLOR);
 	if (!image.data) {
 		cerr << "Error al leer la imagen\n";
 		return -1;
 	}
-	cout << "Imagen: " << image.cols << "x" << image.rows << endl;
+	//cout << "Imagen: " << image.cols << "x" << image.rows << endl;
 
 	//	Determina el tamaño del bloque de memoria para la imagen
 	tam_imagen = image.cols*image.rows * sizeof(uchar3);
-	cout << "Imagen: " << ((double)tam_imagen) / 1e6 << " Mb." << endl;
+	//cout << "Imagen: " << ((double)tam_imagen) / 1e6 << " Mb." << endl;
 
 	//	Reservar la memoria en device para imagen original
 	uchar3 *image_d;
@@ -77,7 +77,7 @@ int main(int n, char* argv[])
 		cerr << "Error al reservar memoria para imagen image en GPU\n";
 		return -1;
 	}
-	cout << "Memoria de imagen image reservada en device\n";
+	cout << "Reservacion de Memoria de imagen en image del device\n";
 
 	//	Reservar la memoria en device para imagen de respuesta
 	uchar3 *ans_d;
@@ -86,7 +86,7 @@ int main(int n, char* argv[])
 		cerr << "Error al reservar memoria para imagen ans en GPU\n";
 		return -1;
 	}
-	cout << "Memoria de imagen ans reservada en device\n";
+	cout << "Reservacion de Memoria de imagen en ans del device\n";
 
 	//	Copiar imagen original al puntero image en device
 	cuda_err = cudaMemcpy(image_d, image.data, tam_imagen, cudaMemcpyHostToDevice);
@@ -94,9 +94,9 @@ int main(int n, char* argv[])
 		cerr << "Error al copiar imagen image a GPU\n";
 		return -1;
 	}
-	cout << "imagen original copiada en device\n";
+	cout << "Se copia la imagen original al device\n";
 
-	cout << "Ejecutando " << bloques << " bloques de " << hilos << " hilos." << endl;
+	cout << "Se ejecuta " << bloques << " bloques de " << hilos << " hilos." << endl;
 	//	llamar proceso de blur paralelo
 	cudaBlur <<< bloques, hilos >>> (image_d, ans_d, image.cols, image.rows, hilos*bloques, (int)floor(tam_kernel));
 
@@ -106,7 +106,7 @@ int main(int n, char* argv[])
 		cerr << "Error al copiar la respuesta de GPU al host\n";
 		return -1;
 	}
-	cout << "Respuesta copiada al host\n";
+	cout << "Se copia la respuesta copiada en el host\n";
 
 	//	Liberar memoria en device
 	cuda_err = cudaFree(image_d);
@@ -126,7 +126,7 @@ int main(int n, char* argv[])
 
 	//	namedWindow("initial");
 	//	imshow("initial", image);
-	imwrite("../thread_blur.jpg", image);
+	imwrite( "copia.jpg", image );
 
 
 
