@@ -1,0 +1,738 @@
+Tiempo para imagen de 720p con un kernel de 3 y con # 1 hilos 
+
+real	0m1.760s
+user	0m1.740s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 1 hilos 
+
+real	0m9.891s
+user	0m9.776s
+sys	0m0.076s
+Tiempo para imagen de 4k con un kernel de 3 y con # 1 hilos 
+
+real	0m49.350s
+user	0m49.248s
+sys	0m0.036s
+Tiempo para imagen de 720p con un kernel de 3 y con # 2 hilos 
+
+real	0m0.995s
+user	0m1.904s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 2 hilos 
+
+real	0m5.259s
+user	0m10.356s
+sys	0m0.004s
+Tiempo para imagen de 4k con un kernel de 3 y con # 2 hilos 
+
+real	0m25.678s
+user	0m50.572s
+sys	0m0.028s
+Tiempo para imagen de 720p con un kernel de 3 y con # 4 hilos 
+
+real	0m0.537s
+user	0m1.912s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 4 hilos 
+
+real	0m3.477s
+user	0m12.564s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 3 y con # 4 hilos 
+
+real	0m14.402s
+user	0m55.176s
+sys	0m0.052s
+Tiempo para imagen de 720p con un kernel de 3 y con # 6 hilos 
+
+real	0m0.520s
+user	0m1.904s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 6 hilos 
+
+real	0m2.862s
+user	0m10.972s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 3 y con # 6 hilos 
+
+real	0m14.650s
+user	0m56.128s
+sys	0m0.048s
+Tiempo para imagen de 720p con un kernel de 3 y con # 8 hilos 
+
+real	0m0.530s
+user	0m1.944s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 8 hilos 
+
+real	0m2.899s
+user	0m11.024s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 3 y con # 8 hilos 
+
+real	0m14.576s
+user	0m55.948s
+sys	0m0.024s
+Tiempo para imagen de 720p con un kernel de 3 y con # 12 hilos 
+
+real	0m0.574s
+user	0m2.060s
+sys	0m0.016s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 12 hilos 
+
+real	0m3.256s
+user	0m12.336s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 3 y con # 12 hilos 
+
+real	0m15.001s
+user	0m57.612s
+sys	0m0.040s
+Tiempo para imagen de 720p con un kernel de 3 y con # 16 hilos 
+
+real	0m0.545s
+user	0m1.988s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 3 y con # 16 hilos 
+
+real	0m3.124s
+user	0m11.984s
+sys	0m0.028s
+Tiempo para imagen de 4k con un kernel de 3 y con # 16 hilos 
+
+real	0m15.578s
+user	0m59.920s
+sys	0m0.052s
+Tiempo para imagen de 720p con un kernel de 5 y con # 1 hilos 
+
+real	0m4.078s
+user	0m4.068s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 1 hilos 
+
+real	0m23.251s
+user	0m23.224s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 5 y con # 1 hilos 
+
+real	1m55.251s
+user	1m55.156s
+sys	0m0.064s
+Tiempo para imagen de 720p con un kernel de 5 y con # 2 hilos 
+
+real	0m2.121s
+user	0m4.184s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 2 hilos 
+
+real	0m12.097s
+user	0m24.020s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 5 y con # 2 hilos 
+
+real	0m59.934s
+user	1m59.036s
+sys	0m0.056s
+Tiempo para imagen de 720p con un kernel de 5 y con # 4 hilos 
+
+real	0m1.161s
+user	0m4.396s
+sys	0m0.020s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 4 hilos 
+
+real	0m6.476s
+user	0m25.200s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 5 y con # 4 hilos 
+
+real	0m31.665s
+user	2m4.208s
+sys	0m0.040s
+Tiempo para imagen de 720p con un kernel de 5 y con # 6 hilos 
+
+real	0m1.157s
+user	0m4.452s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 6 hilos 
+
+real	0m6.639s
+user	0m26.048s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 5 y con # 6 hilos 
+
+real	0m32.061s
+user	2m5.856s
+sys	0m0.056s
+Tiempo para imagen de 720p con un kernel de 5 y con # 8 hilos 
+
+real	0m1.119s
+user	0m4.312s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 8 hilos 
+
+real	0m6.540s
+user	0m25.468s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 5 y con # 8 hilos 
+
+real	0m31.966s
+user	2m4.892s
+sys	0m0.044s
+Tiempo para imagen de 720p con un kernel de 5 y con # 12 hilos 
+
+real	0m1.142s
+user	0m4.392s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 12 hilos 
+
+real	0m6.679s
+user	0m26.000s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 5 y con # 12 hilos 
+
+real	0m32.413s
+user	2m7.384s
+sys	0m0.028s
+Tiempo para imagen de 720p con un kernel de 5 y con # 16 hilos 
+
+real	0m1.222s
+user	0m4.516s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 5 y con # 16 hilos 
+
+real	0m6.586s
+user	0m25.824s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 5 y con # 16 hilos 
+
+real	0m32.518s
+user	2m7.776s
+sys	0m0.044s
+Tiempo para imagen de 720p con un kernel de 7 y con # 1 hilos 
+
+real	0m7.381s
+user	0m7.376s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 1 hilos 
+
+real	0m43.551s
+user	0m43.528s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 7 y con # 1 hilos 
+
+real	3m32.077s
+user	3m31.852s
+sys	0m0.036s
+Tiempo para imagen de 720p con un kernel de 7 y con # 2 hilos 
+
+real	0m3.847s
+user	0m7.632s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 2 hilos 
+
+real	0m21.883s
+user	0m43.556s
+sys	0m0.004s
+Tiempo para imagen de 4k con un kernel de 7 y con # 2 hilos 
+
+real	1m48.946s
+user	3m36.992s
+sys	0m0.056s
+Tiempo para imagen de 720p con un kernel de 7 y con # 4 hilos 
+
+real	0m2.041s
+user	0m7.832s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 4 hilos 
+
+real	0m11.472s
+user	0m45.240s
+sys	0m0.020s
+Tiempo para imagen de 4k con un kernel de 7 y con # 4 hilos 
+
+real	0m57.189s
+user	3m46.328s
+sys	0m0.048s
+Tiempo para imagen de 720p con un kernel de 7 y con # 6 hilos 
+
+real	0m1.991s
+user	0m7.728s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 6 hilos 
+
+real	0m11.626s
+user	0m46.000s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 7 y con # 6 hilos 
+
+real	0m57.393s
+user	3m47.128s
+sys	0m0.032s
+Tiempo para imagen de 720p con un kernel de 7 y con # 8 hilos 
+
+real	0m2.100s
+user	0m7.904s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 8 hilos 
+
+real	0m11.724s
+user	0m46.264s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 7 y con # 8 hilos 
+
+real	0m57.772s
+user	3m48.608s
+sys	0m0.064s
+Tiempo para imagen de 720p con un kernel de 7 y con # 12 hilos 
+
+real	0m2.014s
+user	0m7.824s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 12 hilos 
+
+real	0m11.818s
+user	0m46.752s
+sys	0m0.024s
+Tiempo para imagen de 4k con un kernel de 7 y con # 12 hilos 
+
+real	0m58.558s
+user	3m51.868s
+sys	0m0.052s
+Tiempo para imagen de 720p con un kernel de 7 y con # 16 hilos 
+
+real	0m2.124s
+user	0m8.008s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 7 y con # 16 hilos 
+
+real	0m11.798s
+user	0m46.556s
+sys	0m0.024s
+Tiempo para imagen de 4k con un kernel de 7 y con # 16 hilos 
+
+real	0m58.915s
+user	3m53.220s
+sys	0m0.036s
+------------------------------------------------------
+Tiempo para imagen de 720p con un kernel de 9 y con # 1 hilos 
+
+real	0m11.697s
+user	0m11.688s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 1 hilos 
+
+real	1m8.724s
+user	1m8.712s
+sys	0m0.000s
+Tiempo para imagen de 4k con un kernel de 9 y con # 1 hilos 
+
+real	5m37.789s
+user	5m37.624s
+sys	0m0.024s
+Tiempo para imagen de 720p con un kernel de 9 y con # 2 hilos 
+
+real	0m6.000s
+user	0m11.928s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 2 hilos 
+
+real	0m34.754s
+user	1m9.300s
+sys	0m0.028s
+Tiempo para imagen de 4k con un kernel de 9 y con # 2 hilos 
+
+real	2m53.338s
+user	5m45.784s
+sys	0m0.048s
+Tiempo para imagen de 720p con un kernel de 9 y con # 4 hilos 
+
+real	0m3.177s
+user	0m12.432s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 4 hilos 
+
+real	0m18.176s
+user	1m12.116s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 9 y con # 4 hilos 
+
+real	1m30.950s
+user	6m1.276s
+sys	0m0.100s
+Tiempo para imagen de 720p con un kernel de 9 y con # 6 hilos 
+
+real	0m3.120s
+user	0m12.260s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 6 hilos 
+
+real	0m18.470s
+user	1m12.696s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 9 y con # 6 hilos 
+
+real	1m30.974s
+user	6m1.248s
+sys	0m0.080s
+Tiempo para imagen de 720p con un kernel de 9 y con # 8 hilos 
+
+real	0m3.320s
+user	0m12.772s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 8 hilos 
+
+real	0m18.232s
+user	1m12.368s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 9 y con # 8 hilos 
+
+real	1m30.777s
+user	6m0.444s
+sys	0m0.060s
+Tiempo para imagen de 720p con un kernel de 9 y con # 12 hilos 
+
+real	0m3.160s
+user	0m12.336s
+sys	0m0.016s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 12 hilos 
+
+real	0m18.650s
+user	1m14.032s
+sys	0m0.020s
+Tiempo para imagen de 4k con un kernel de 9 y con # 12 hilos 
+
+real	1m31.873s
+user	6m5.052s
+sys	0m0.064s
+Tiempo para imagen de 720p con un kernel de 9 y con # 16 hilos 
+
+real	0m3.203s
+user	0m12.652s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 9 y con # 16 hilos 
+
+real	0m18.258s
+user	1m12.520s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 9 y con # 16 hilos 
+
+real	1m32.346s
+user	6m6.844s
+sys	0m0.076s
+
+--------------------------------
+Tiempo para imagen de 720p con un kernel de 11 y con # 1 hilos 
+
+real	0m16.723s
+user	0m16.716s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 11 y con # 1 hilos 
+
+real	1m38.396s
+user	1m38.372s
+sys	0m0.020s
+Tiempo para imagen de 4k con un kernel de 11 y con # 1 hilos 
+
+real	8m18.094s
+user	8m18.032s
+sys	0m0.048s
+Tiempo para imagen de 720p con un kernel de 11 y con # 2 hilos 
+
+real	0m8.640s
+user	0m17.220s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 11 y con # 2 hilos 
+
+real	0m50.501s
+user	1m40.836s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 11 y con # 2 hilos 
+
+real	4m13.068s
+user	8m25.228s
+sys	0m0.056s
+Tiempo para imagen de 720p con un kernel de 11 y con # 4 hilos 
+
+real	0m4.474s
+user	0m17.660s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 11 y con # 4 hilos 
+
+real	0m26.238s
+user	1m43.912s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 11 y con # 4 hilos 
+
+real	2m11.374s
+user	8m42.940s
+sys	0m0.064s
+Tiempo para imagen de 720p con un kernel de 11 y con # 6 hilos 
+
+real	0m4.512s
+user	0m17.800s
+sys	0m0.024s
+Tiempo para imagen de 1080p con un kernel de 11 y con # 6 hilos 
+
+real	0m26.193s
+user	1m43.864s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 11 y con # 6 hilos 
+
+real	2m11.267s
+user	8m42.316s
+sys	0m0.108s
+Tiempo para imagen de 720p con un kernel de 11 y con # 8 hilos 
+
+real	0m4.536s
+user	0m17.988s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 11 y con # 8 hilos 
+
+real	0m26.168s
+user	1m44.164s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 11 y con # 8 hilos 
+
+real	2m11.956s
+user	8m45.228s
+sys	0m0.088s
+Tiempo para imagen de 720p con un kernel de 11 y con # 12 hilos 
+
+real	0m4.544s
+user	0m17.944s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 11 y con # 12 hilos 
+
+real	0m28.556s
+user	1m47.180s
+sys	0m1.884s
+Tiempo para imagen de 4k con un kernel de 11 y con # 12 hilos 
+
+real	2m15.829s
+user	8m50.676s
+sys	0m1.964s
+Tiempo para imagen de 720p con un kernel de 11 y con # 16 hilos 
+
+real	0m4.558s
+user	0m17.992s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 11 y con # 16 hilos 
+
+real	0m26.467s
+user	1m45.384s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 11 y con # 16 hilos 
+
+real	2m13.363s
+user	8m50.928s
+sys	0m0.068s
+Tiempo para imagen de 720p con un kernel de 13 y con # 1 hilos 
+
+real	0m22.676s
+user	0m22.660s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 13 y con # 1 hilos 
+
+real	2m16.166s
+user	2m16.148s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 13 y con # 1 hilos 
+
+real	11m25.010s
+user	11m24.972s
+sys	0m0.020s
+Tiempo para imagen de 720p con un kernel de 13 y con # 2 hilos 
+
+real	0m11.710s
+user	0m23.352s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 13 y con # 2 hilos 
+
+real	1m9.057s
+user	2m17.928s
+sys	0m0.028s
+Tiempo para imagen de 4k con un kernel de 13 y con # 2 hilos 
+
+real	5m46.986s
+user	11m32.696s
+sys	0m0.056s
+Tiempo para imagen de 720p con un kernel de 13 y con # 4 hilos 
+
+real	0m6.050s
+user	0m23.952s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 13 y con # 4 hilos 
+
+real	0m35.839s
+user	2m22.688s
+sys	0m0.032s
+Tiempo para imagen de 4k con un kernel de 13 y con # 4 hilos 
+
+real	3m0.152s
+user	11m57.924s
+sys	0m0.080s
+Tiempo para imagen de 720p con un kernel de 13 y con # 6 hilos 
+
+real	0m6.011s
+user	0m23.844s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 13 y con # 6 hilos 
+
+real	0m36.125s
+user	2m23.672s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 13 y con # 6 hilos 
+
+real	3m0.195s
+user	11m58.056s
+sys	0m0.072s
+Tiempo para imagen de 720p con un kernel de 13 y con # 8 hilos 
+
+real	0m6.041s
+user	0m24.008s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 13 y con # 8 hilos 
+
+real	0m35.932s
+user	2m23.228s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 13 y con # 8 hilos 
+
+real	3m0.280s
+user	11m58.492s
+sys	0m0.064s
+Tiempo para imagen de 720p con un kernel de 13 y con # 12 hilos 
+
+real	0m6.114s
+user	0m23.964s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 13 y con # 12 hilos 
+
+real	0m35.977s
+user	2m23.264s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 13 y con # 12 hilos 
+
+real	3m1.716s
+user	12m4.256s
+sys	0m0.068s
+Tiempo para imagen de 720p con un kernel de 13 y con # 16 hilos 
+
+real	0m6.138s
+user	0m24.380s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 13 y con # 16 hilos 
+
+real	0m35.996s
+user	2m23.464s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 13 y con # 16 hilos 
+
+real	3m2.184s
+user	12m6.220s
+sys	0m0.104s
+Tiempo para imagen de 720p con un kernel de 15 y con # 1 hilos 
+
+real	0m29.532s
+user	0m29.524s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 15 y con # 1 hilos 
+
+real	2m58.741s
+user	2m58.704s
+sys	0m0.032s
+Tiempo para imagen de 4k con un kernel de 15 y con # 1 hilos 
+
+real	14m54.296s
+user	14m53.968s
+sys	0m0.024s
+Tiempo para imagen de 720p con un kernel de 15 y con # 2 hilos 
+
+real	0m15.201s
+user	0m30.312s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 15 y con # 2 hilos 
+
+real	1m30.428s
+user	3m0.620s
+sys	0m0.036s
+Tiempo para imagen de 4k con un kernel de 15 y con # 2 hilos 
+
+real	7m35.856s
+user	15m10.604s
+sys	0m0.060s
+Tiempo para imagen de 720p con un kernel de 15 y con # 4 hilos 
+
+real	0m7.833s
+user	0m30.984s
+sys	0m0.020s
+Tiempo para imagen de 1080p con un kernel de 15 y con # 4 hilos 
+
+real	0m46.544s
+user	3m5.640s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 15 y con # 4 hilos 
+
+real	3m55.270s
+user	15m38.200s
+sys	0m0.104s
+Tiempo para imagen de 720p con un kernel de 15 y con # 6 hilos 
+
+real	0m7.974s
+user	0m31.564s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 15 y con # 6 hilos 
+
+real	0m46.739s
+user	3m6.328s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 15 y con # 6 hilos 
+
+real	3m56.738s
+user	15m44.248s
+sys	0m0.092s
+Tiempo para imagen de 720p con un kernel de 15 y con # 8 hilos 
+
+real	0m7.875s
+user	0m31.328s
+sys	0m0.016s
+Tiempo para imagen de 1080p con un kernel de 15 y con # 8 hilos 
+
+real	0m47.129s
+user	3m7.960s
+sys	0m0.028s
+Tiempo para imagen de 4k con un kernel de 15 y con # 8 hilos 
+
+real	3m57.494s
+user	15m47.344s
+sys	0m0.080s
+Tiempo para imagen de 720p con un kernel de 15 y con # 12 hilos 
+
+real	0m7.872s
+user	0m31.256s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 15 y con # 12 hilos 
+
+real	0m46.967s
+user	3m7.336s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 15 y con # 12 hilos 
+
+real	3m57.293s
+user	15m46.604s
+sys	0m0.088s
+Tiempo para imagen de 720p con un kernel de 15 y con # 16 hilos 
+
+real	0m7.792s
+user	0m30.964s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 15 y con # 16 hilos 
+
+real	0m47.199s
+user	3m8.068s
+sys	0m0.024s
+Tiempo para imagen de 4k con un kernel de 15 y con # 16 hilos 
+
+real	3m58.000s
+user	15m49.360s
+sys	0m0.072s

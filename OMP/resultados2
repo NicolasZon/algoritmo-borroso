@@ -1,0 +1,642 @@
+Resultados con # 4 hilos
+Tiempo para imagen de 720p con un kernel de 3
+
+real	0m1.518s
+user	0m5.792s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 3
+
+real	0m8.454s
+user	0m33.100s
+sys	0m0.124s
+Tiempo para imagen de 4k con un kernel de 3
+
+real	0m40.630s
+user	2m38.560s
+sys	0m0.044s
+Resultados con # 8 hilos
+Tiempo para imagen de 720p con un kernel de 3
+
+real	0m1.516s
+user	0m5.804s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 3
+
+real	0m8.159s
+user	0m31.912s
+sys	0m0.020s
+Tiempo para imagen de 4k con un kernel de 3
+
+real	0m40.016s
+user	2m37.536s
+sys	0m0.016s
+Resultados con # 4 hilos
+Tiempo para imagen de 720p con un kernel de 5
+
+real	0m3.594s
+user	0m13.876s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 5
+
+real	0m20.387s
+user	1m19.268s
+sys	0m0.000s
+Tiempo para imagen de 4k con un kernel de 5
+
+real	1m39.215s
+user	6m30.120s
+sys	0m0.040s
+Resultados con # 8 hilos
+Tiempo para imagen de 720p con un kernel de 5
+
+real	0m3.546s
+user	0m13.856s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 5
+
+real	0m19.908s
+user	1m18.744s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 5
+
+real	1m37.991s
+user	6m28.936s
+sys	0m0.048s
+Resultados con # 4 hilos
+Tiempo para imagen de 720p con un kernel de 7
+
+real	0m6.580s
+user	0m25.764s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 7
+
+real	0m36.893s
+user	2m24.680s
+sys	0m0.020s
+Tiempo para imagen de 4k con un kernel de 7
+
+real	3m3.153s
+user	11m58.756s
+sys	0m0.076s
+Resultados con # 8 hilos
+Tiempo para imagen de 720p con un kernel de 7
+
+real	0m6.549s
+user	0m25.900s
+sys	0m0.016s
+Tiempo para imagen de 1080p con un kernel de 7
+
+real	0m37.482s
+user	2m28.872s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 7
+
+real	3m1.673s
+user	12m1.524s
+sys	0m0.068s
+Resultados con # 4 hilos
+Tiempo para imagen de 720p con un kernel de 9
+
+real	0m10.561s
+user	0m41.572s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 9
+
+real	0m59.261s
+user	3m52.788s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 9
+
+real	4m56.128s
+user	19m30.028s
+sys	0m0.228s
+Resultados con # 8 hilos
+Tiempo para imagen de 720p con un kernel de 9
+
+real	0m10.636s
+user	0m42.080s
+sys	0m0.016s
+Tiempo para imagen de 1080p con un kernel de 9
+
+real	0m58.988s
+user	3m53.840s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 9
+
+real	4m48.873s
+user	19m7.112s
+sys	0m0.196s
+Resultados con # 4 hilos
+Tiempo para imagen de 720p con un kernel de 11
+
+real	0m15.418s
+user	1m0.320s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 11
+
+real	1m26.840s
+user	5m42.396s
+sys	0m0.056s
+Tiempo para imagen de 4k con un kernel de 11
+
+real	7m9.259s
+user	28m3.296s
+sys	0m0.076s
+Resultados con # 8 hilos
+Tiempo para imagen de 720p con un kernel de 11
+
+real	0m15.129s
+user	1m0.136s
+sys	0m0.020s
+Tiempo para imagen de 1080p con un kernel de 11
+
+real	1m25.607s
+user	5m39.256s
+sys	0m0.040s
+Tiempo para imagen de 4k con un kernel de 11
+
+real	7m4.173s
+user	28m5.620s
+sys	0m0.188s
+Resultados con # 4 hilos
+Tiempo para imagen de 720p con un kernel de 13
+
+real	0m20.991s
+user	1m22.216s
+sys	0m0.016s
+Tiempo para imagen de 1080p con un kernel de 13
+
+real	1m59.688s
+user	7m50.624s
+sys	0m0.076s
+Tiempo para imagen de 4k con un kernel de 13
+
+real	9m51.069s
+user	38m37.492s
+sys	0m0.680s
+Resultados con # 8 hilos
+Tiempo para imagen de 720p con un kernel de 13
+
+real	0m20.975s
+user	1m23.128s
+sys	0m0.024s
+Tiempo para imagen de 1080p con un kernel de 13
+
+real	1m58.184s
+user	7m48.940s
+sys	0m0.044s
+Tiempo para imagen de 4k con un kernel de 13
+
+real	9m43.516s
+user	38m38.684s
+sys	0m0.208s
+Resultados con # 4 hilos
+Tiempo para imagen de 720p con un kernel de 15
+
+real	0m27.975s
+user	1m49.296s
+sys	0m0.024s
+Tiempo para imagen de 1080p con un kernel de 15
+
+real	2m37.425s
+user	10m18.004s
+sys	0m0.816s
+Tiempo para imagen de 4k con un kernel de 15
+
+real	12m57.846s
+user	50m52.208s
+sys	0m0.316s
+Resultados con # 8 hilos
+Tiempo para imagen de 720p con un kernel de 15
+
+real	0m27.857s
+user	1m50.296s
+sys	0m0.016s
+Tiempo para imagen de 1080p con un kernel de 15
+
+real	2m35.546s
+user	10m17.688s
+sys	0m0.020s
+Tiempo para imagen de 4k con un kernel de 15
+
+real	12m49.031s
+user	50m55.896s
+sys	0m0.228s
+
+
+--------------------------------
+Tiempo para imagen de 720p con un kernel de 3 y 6 hilos 
+
+real	0m1.621s
+user	0m5.680s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 3 y 6 hilos 
+
+real	0m8.363s
+user	0m31.996s
+sys	0m0.012s
+Tiempo para imagen de 4k con un kernel de 3 y 6 hilos
+
+real	0m40.677s
+user	2m39.052s
+sys	0m0.056s
+Resultados con # 12 hilos
+Tiempo para imagen de 720p con un kernel de 3 y 12 hilos 
+
+real	0m1.460s
+user	0m5.660s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 3 y 12 hilos 
+
+real	0m8.156s
+user	0m32.372s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 3 y 12 hilos
+
+real	0m40.872s
+user	2m39.392s
+sys	0m1.236s
+Resultados con # 16 hilos
+Tiempo para imagen de 720p con un kernel de 3 y 16 hilos 
+
+real	0m1.512s
+user	0m5.812s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 3 y 16 hilos 
+
+real	0m8.474s
+user	0m33.628s
+sys	0m0.008s
+Tiempo para imagen de 4k con un kernel de 3 y 16 hilos
+
+real	0m40.015s
+user	2m38.964s
+sys	0m0.004s
+start.sh: line 23: printf: --: invalid option
+printf: usage: printf [-v var] format [arguments]
+Resultados con # 6 hilos
+Tiempo para imagen de 720p con un kernel de 5 y 6 hilos 
+
+real	0m3.688s
+user	0m13.952s
+sys	0m0.016s
+Tiempo para imagen de 1080p con un kernel de 5 y 6 hilos 
+
+real	0m20.030s
+user	1m19.172s
+sys	0m0.000s
+Tiempo para imagen de 4k con un kernel de 5 y 6 hilos
+
+real	1m38.484s
+user	6m27.996s
+sys	0m0.048s
+Resultados con # 12 hilos
+Tiempo para imagen de 720p con un kernel de 5 y 12 hilos 
+
+real	0m3.507s
+user	0m13.868s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 5 y 12 hilos 
+
+real	0m19.757s
+user	1m18.720s
+sys	0m0.004s
+Tiempo para imagen de 4k con un kernel de 5 y 12 hilos
+
+real	1m37.674s
+user	6m29.276s
+sys	0m0.028s
+Resultados con # 16 hilos
+Tiempo para imagen de 720p con un kernel de 5 y 16 hilos 
+
+real	0m3.535s
+user	0m13.940s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 5 y 16 hilos 
+
+real	0m19.752s
+user	1m18.720s
+sys	0m0.000s
+Tiempo para imagen de 4k con un kernel de 5 y 16 hilos
+
+real	1m37.293s
+user	6m27.696s
+sys	0m0.068s
+start.sh: line 23: printf: --: invalid option
+printf: usage: printf [-v var] format [arguments]
+Resultados con # 6 hilos
+Tiempo para imagen de 720p con un kernel de 7 y 6 hilos 
+
+real	0m6.739s
+user	0m25.720s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 7 y 6 hilos 
+
+real	0m37.027s
+user	2m25.424s
+sys	0m0.000s
+Tiempo para imagen de 4k con un kernel de 7 y 6 hilos
+
+real	3m0.639s
+user	11m55.672s
+sys	0m0.076s
+Resultados con # 12 hilos
+Tiempo para imagen de 720p con un kernel de 7 y 12 hilos 
+
+real	0m6.468s
+user	0m25.708s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 7 y 12 hilos 
+
+real	0m36.400s
+user	2m25.260s
+sys	0m0.032s
+Tiempo para imagen de 4k con un kernel de 7 y 12 hilos
+
+real	2m59.162s
+user	11m54.604s
+sys	0m0.064s
+Resultados con # 16 hilos
+Tiempo para imagen de 720p con un kernel de 7 y 16 hilos 
+
+real	0m6.477s
+user	0m25.760s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 7 y 16 hilos 
+
+real	0m36.363s
+user	2m25.064s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 7 y 16 hilos
+
+real	2m59.484s
+user	11m56.636s
+sys	0m0.072s
+start.sh: line 23: printf: --: invalid option
+printf: usage: printf [-v var] format [arguments]
+Resultados con # 6 hilos
+Tiempo para imagen de 720p con un kernel de 9 y 6 hilos 
+
+real	0m10.506s
+user	0m41.176s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 9 y 6 hilos 
+
+real	0m58.529s
+user	3m50.864s
+sys	0m0.020s
+Tiempo para imagen de 4k con un kernel de 9 y 6 hilos
+
+real	4m46.083s
+user	19m1.664s
+sys	0m0.100s
+Resultados con # 12 hilos
+Tiempo para imagen de 720p con un kernel de 9 y 12 hilos 
+
+real	0m10.251s
+user	0m40.812s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 9 y 12 hilos 
+
+real	0m58.040s
+user	3m51.784s
+sys	0m0.036s
+Tiempo para imagen de 4k con un kernel de 9 y 12 hilos
+
+real	4m46.043s
+user	19m2.340s
+sys	0m0.068s
+Resultados con # 16 hilos
+Tiempo para imagen de 720p con un kernel de 9 y 16 hilos 
+
+real	0m10.353s
+user	0m41.252s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 9 y 16 hilos 
+
+real	0m58.176s
+user	3m52.368s
+sys	0m0.004s
+Tiempo para imagen de 4k con un kernel de 9 y 16 hilos
+
+real	4m46.605s
+user	19m4.976s
+sys	0m0.100s
+start.sh: line 23: printf: --: invalid option
+printf: usage: printf [-v var] format [arguments]
+Resultados con # 6 hilos
+Tiempo para imagen de 720p con un kernel de 11 y 6 hilos 
+
+real	0m15.083s
+user	0m59.684s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 11 y 6 hilos 
+
+real	1m26.897s
+user	5m41.296s
+sys	0m0.628s
+Tiempo para imagen de 4k con un kernel de 11 y 6 hilos
+
+real	7m0.038s
+user	27m53.140s
+sys	0m0.128s
+Resultados con # 12 hilos
+Tiempo para imagen de 720p con un kernel de 11 y 12 hilos 
+
+real	0m15.001s
+user	0m59.780s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 11 y 12 hilos 
+
+real	1m25.198s
+user	5m40.276s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 11 y 12 hilos
+
+real	6m58.924s
+user	27m53.268s
+sys	0m0.148s
+Resultados con # 16 hilos
+Tiempo para imagen de 720p con un kernel de 11 y 16 hilos 
+
+real	0m15.061s
+user	0m59.992s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 11 y 16 hilos 
+
+real	1m25.056s
+user	5m39.644s
+sys	0m0.052s
+Tiempo para imagen de 4k con un kernel de 11 y 16 hilos
+
+real	6m58.520s
+user	27m52.348s
+sys	0m0.128s
+start.sh: line 23: printf: --: invalid option
+printf: usage: printf [-v var] format [arguments]
+Resultados con # 6 hilos
+Tiempo para imagen de 720p con un kernel de 13 y 6 hilos 
+
+real	0m21.115s
+user	1m22.248s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 13 y 6 hilos 
+
+real	1m57.792s
+user	7m46.268s
+sys	0m0.028s
+Tiempo para imagen de 4k con un kernel de 13 y 6 hilos
+
+real	9m36.706s
+user	38m22.256s
+sys	0m0.152s
+Resultados con # 12 hilos
+Tiempo para imagen de 720p con un kernel de 13 y 12 hilos 
+
+real	0m20.576s
+user	1m21.872s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 13 y 12 hilos 
+
+real	1m56.840s
+user	7m46.904s
+sys	0m0.028s
+Tiempo para imagen de 4k con un kernel de 13 y 12 hilos
+
+real	9m38.835s
+user	38m32.108s
+sys	0m0.168s
+Resultados con # 16 hilos
+Tiempo para imagen de 720p con un kernel de 13 y 16 hilos 
+
+real	0m20.716s
+user	1m22.680s
+sys	0m0.000s
+Tiempo para imagen de 1080p con un kernel de 13 y 16 hilos 
+
+real	1m56.687s
+user	7m46.264s
+sys	0m0.016s
+Tiempo para imagen de 4k con un kernel de 13 y 16 hilos
+
+real	9m35.623s
+user	38m20.292s
+sys	0m0.136s
+start.sh: line 23: printf: --: invalid option
+printf: usage: printf [-v var] format [arguments]
+Resultados con # 6 hilos
+Tiempo para imagen de 720p con un kernel de 15 y 6 hilos 
+
+real	0m27.457s
+user	1m48.716s
+sys	0m0.004s
+Tiempo para imagen de 1080p con un kernel de 15 y 6 hilos 
+
+real	2m34.890s
+user	10m13.224s
+sys	0m0.032s
+Tiempo para imagen de 4k con un kernel de 15 y 6 hilos
+
+real	12m40.801s
+user	50m27.896s
+sys	0m0.212s
+Resultados con # 12 hilos
+Tiempo para imagen de 720p con un kernel de 15 y 12 hilos 
+
+real	0m27.101s
+user	1m48.160s
+sys	0m0.012s
+Tiempo para imagen de 1080p con un kernel de 15 y 12 hilos 
+
+real	2m33.657s
+user	10m13.968s
+sys	0m0.052s
+Tiempo para imagen de 4k con un kernel de 15 y 12 hilos
+
+real	12m38.111s
+user	50m29.864s
+sys	0m0.264s
+Resultados con # 16 hilos
+Tiempo para imagen de 720p con un kernel de 15 y 16 hilos 
+
+real	0m26.972s
+user	1m47.668s
+sys	0m0.008s
+Tiempo para imagen de 1080p con un kernel de 15 y 16 hilos 
+
+real	2m33.899s
+user	10m15.132s
+sys	0m0.060s
+Tiempo para imagen de 4k con un kernel de 15 y 16 hilos
+
+real	12m40.809s
+user	50m38.776s
+sys	0m1.108s
+start.sh: line 23: printf: --: invalid option
+printf: usage: printf [-v var] format [arguments]
+
+
+-------------------------------------------
+
+Resultados con # 1 hilos
+
+Tiempo para imagen de 720p con un kernel de 15 y 1 hilos 
+
+real	1m42.773s
+
+user	1m42.764s
+
+sys	0m0.008s
+
+Tiempo para imagen de 1080p con un kernel de 15 y 1 hilos 
+
+
+
+real	9m41.823s
+
+user	9m41.808s
+
+sys	0m0.008s
+
+Tiempo para imagen de 4k con un kernel de 15 y 1 hilos
+
+
+
+real	48m3.101s
+
+user	48m3.044s
+
+sys	0m0.008s
+
+Resultados con # 2 hilos
+
+Tiempo para imagen de 720p con un kernel de 15 y 2 hilos 
+
+
+
+real	0m52.579s
+
+user	1m44.828s
+
+sys	0m0.004s
+
+Tiempo para imagen de 1080p con un kernel de 15 y 2 hilos 
+
+
+
+real	5m10.278s
+
+user	10m7.080s
+
+sys	0m0.008s
+
+Tiempo para imagen de 4k con un kernel de 15 y 2 hilos
+
+
+
+real	24m40.415s
+
+user	49m14.452s
+
+sys	0m0.020s
+

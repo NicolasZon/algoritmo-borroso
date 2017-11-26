@@ -479,3 +479,4 @@ Tiempo para imagen de 4k con un kernel de 13
 real	9m48.921s
 user	39m12.604s
 sys	0m0.160s
+
