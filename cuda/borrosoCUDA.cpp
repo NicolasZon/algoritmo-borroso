@@ -64,11 +64,11 @@ int main(int n, char* argv[])
 		cerr << "Error al leer la imagen\n";
 		return -1;
 	}
-	//cout << "Imagen: " << image.cols << "x" << image.rows << endl;
+	cout << "Pixeles de la imagen: " << image.cols << "x" << image.rows << endl;
 
 	//	Determina el tamaño del bloque de memoria para la imagen
 	tam_imagen = image.cols*image.rows * sizeof(uchar3);
-	//cout << "Imagen: " << ((double)tam_imagen) / 1e6 << " Mb." << endl;
+	cout << "Tamano de la imagen inicial: " << ((double)tam_imagen) / 1e6 << " Mb." << endl;
 
 	//	Reservar la memoria en device para imagen original
 	uchar3 *image_d;
